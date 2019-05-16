@@ -1,7 +1,7 @@
-package fr.p10.miage.rps.model;
+package fr.p10.miage.visitorClient.model;
 
-import fr.p10.miage.rps.contrat.IVisitable;
-import fr.p10.miage.rps.contrat.IVisitor;
+import fr.p10.miage.visitorClient.contrat.IVisitable;
+import fr.p10.miage.visitorClient.contrat.IVisitor;
 
 public class Ligne implements IVisitable {
     private String name;
